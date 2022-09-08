@@ -1,2 +1,2 @@
 # acwing
-Steps to inprove data sturcture and algorithm skills
+Steps to improve data sturcture and algorithm skills
